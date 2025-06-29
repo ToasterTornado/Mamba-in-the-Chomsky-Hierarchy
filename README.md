@@ -2,7 +2,6 @@
 
 This repository contains the official code and documentation for my Bachelor Thesis:  
 **"Mamba-SSM in the Chomsky Hierarchy: Evaluating Mamba-SSM’s Potential Using Synthetic Tasks"**  
-submitted to the Institute for Machine Learning, JKU Linz, under the supervision of Univ.-Prof. Dr. Sepp Hochreiter.
 
 ## 📘 Abstract
 
